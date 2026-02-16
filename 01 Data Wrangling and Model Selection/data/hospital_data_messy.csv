@@ -1,0 +1,211 @@
+patient_id,age,gender,admission_date,department,length_of_stay,treatment_cost,discharge_status
+1 ,59,Male,07/01/2023,ER,3,20900,Discharged
+2,79,Female,02/02/2023 ,Surgery,5,33700,Discharged
+3,59,Male ,22/11/2023,ER,11,11300,Discharged 
+4,57,NA,17/04/2023,Neurology,3,1400,Discharged
+5,84 ,female,22/03/2023,emergency,7,14500,discharged
+6,84,Male,30/10/2023 ,A&E,9,9100 ,NA 
+7,22,Male,28/10/2023,Orthopaedics,5,27400,Transferred
+8,72,MALE,01/11/2023,CARDIOLOGY,5,37500,TRANSFERRED
+9,75,Female,07/12/2023,ER,8,5700,Discharged 
+10,42,Female,01/02/2023,ER,3,8800,Discharged
+11,NA,Female,18/03/2023,Emergency,4,10600,Discharged
+12 ,81,Female,13/11/2023,ER,7,21200,Transferred
+13,77 ,NA,12/04/2023,A&E ,6,0,Discharged
+14,33,Male,19/07/2023,ER,9 ,14500,Discharged
+15,NA,Male,21/06/2023,Orthopaedics,1,8500,Discharged 
+16,69,Male,21/03/2023,Cardiology,5,31400,NA
+17,29,NA ,12/02/2023,ORTHOPAEDICS,5,NA,DISCHARGED
+18,83,Male,25/08/2023,Cardiology,NA ,23900,Discharged
+19,48,MALE,20/09/2023,CARDIOLOGY,7,0,DISCHARGED
+20,47,Male ,24/06/2023,Accident & Emergency,1,22300,Discharged
+21,NA ,Female,03/06/2023,NA,3,17500,Discharged 
+22,44,Male ,04/07/2023,Neurology ,7,15300,Discharged
+23,73,NA,20/03/2023,ER,6,NA ,Discharged
+24,63,Male,17/07/2023,Bone & Joint,3,21200,Discharged
+25,62,Female,23/10/2023,Cardiology,4,16700,Discharged
+26,33,NA,11/03/2023,Orthopaedics,4,33600,Discharged
+27,27,MALE,18/09/2023,NEUROLOGY,NA,0,DISCHARGED
+28,39,Male ,05/10/2023,Cardiology,6,40600 ,Discharged
+29,59,Male ,26/06/2023,Ortho,6,16000,NA
+30,43,Female ,01/04/2023,Cardiology,5,30700,Discharged
+NA,43 ,Female,01/04/2023,Cardiology,5 ,30700,Discharged
+31,39,NA,03/02/2023,Surgery,1 ,38100,Transferred
+32,29 ,Male,01/02/2023,Emergency,4,14200,Discharged
+33,59 ,Male,28/02/2023,Neurology,7,5400,Discharged
+34,19,Male,05/09/2023 ,Ortho,NA ,1600,Discharged
+35 ,83 ,Female,18/11/2023,A&E,8,14500,Discharged
+36,81,FEMALE,12/03/2023,SURGERY,9,41300,DISCHARGED
+37 ,80,male,NA,cardiology,5,24700,discharged
+38,31,Male,15/08/2023,Neurology,2,NA,Transferred
+39,83,Male,06/10/2023,Neurology,3,17200,NA
+40 ,46,Female,22/05/2023,Neurology,11,6900,Discharged
+41,57,MALE,05/01/2023,CARDIOLOGY,5,25300,DISCHARGED
+42,40,Male,19/02/2023,ER,1 ,18500,Transferred
+43,38,Male,04/07/2023,Neurology,NA ,16500,Discharged
+44 ,40,Female,02/02/2023,Cardiology,6,22000,Discharged
+45 ,33,Female ,NA,Neurology,2,19300,Deceased
+NA,83,Female,08/11/2023,ER,NA,6100,Discharged
+47,36,NA,19/04/2023,Cardiology,1,15700,Discharged
+48,61 ,Female,23/01/2023,NA,NA,-4900,Discharged
+49 ,25,NA,03/03/2023,A&E,2,8200 ,Discharged
+50,80,Female,14/04/2023,Cardiology,6,NA,Discharged
+NA,NA,Female,22/10/2023,A&E,6,27400,NA
+52,57,Male,20/04/2023,Emergency,7,27200,Discharged
+NA,24,NA,28/12/2023,Surgery,3,42500,Transferred 
+54,33,Male,17/06/2023,Cardiology,5,16000,Discharged
+55,81,Female,25/05/2023,Surgery,5,49000,Discharged
+56,56,Female,NA,Neurology,5,11100,Discharged
+57,21,Female,NA,A&E,8,21400,Discharged
+58,34,Female,01/04/2023,Bone & Joint,2,6100,Discharged 
+59,41,Male,31/12/2023 ,Cardiology,3,26600,Deceased
+60,66,NA,02/12/2023,Emergency,5,35700,Discharged 
+60 ,66 ,Female,NA,Emergency,5,35700,Discharged
+NA ,19,Male,18/10/2023,Ortho,8,8500,Discharged
+62,40,NA,01/10/2023,Ortho,7,4900,Discharged
+63,60,Female,25/02/2023,Neurology,2,9700,Discharged
+64,65,NA,21/08/2023,A&E,7,12600,Discharged
+65,68,Male,13/06/2023,Accident & Emergency,2,28200,Discharged
+NA,62,Female,06/03/2023,NA,3,41500,Discharged
+67,NA,female,20/04/2023,NA,3,2200,discharged
+68,70,male,19/12/2023,accident & emergency,1,26500,discharged
+69,78,Female,18/02/2023,A&E,1,21500 ,Discharged
+70,60,male,02/08/2023 ,cardiology,NA,13300,discharged
+71,53,Male,13/10/2023,NA,5 ,35000,Discharged 
+72,82,Female,31/08/2023 ,Neurology,3,18900,Discharged
+73,73,Male,11/01/2023,Surgery,7,43700,Discharged
+74,80,Female,NA,Emergency,NA,15800,Discharged
+75,49,Female,28/10/2023,Ortho,11,19900,Discharged
+76,74,female,21/06/2023,emergency,3,0,discharged
+77,53,Female ,11/07/2023,Cardiology,3,33300,Discharged
+78,20,Male,11/02/2023,Neurology,1,900,Discharged
+79,46,Female,11/05/2023 ,Surgery,4,39300,Transferred
+NA,62,Female,23/04/2023,Emergency,2,19100,Discharged
+80,62 ,Female,23/04/2023,Emergency,2,19100,Discharged 
+81,43,FEMALE,NA,CARDIOLOGY,1,43100,DISCHARGED
+82 ,55,Male,27/02/2023,Emergency,NA,17700,NA
+83,51,Male,NA,Cardiology,7,NA,Discharged
+84,76,Male,01/07/2023,Orthopedics,7,18300,Discharged
+85,27,Male,19/06/2023,Neurology,-1,16800 ,Discharged
+86,58,NA,02/09/2023,Ortho,5,20300,Discharged
+87,81,Male,13/07/2023,Orthopedics,6,1600 ,Discharged
+88,42,Male,NA,A&E,4,9600,Discharged
+89,77,Female,03/01/2023,Cardiology,NA,30200,Discharged
+89,77,Female,03/01/2023,Cardiology,9,30200,Discharged
+90,85,Male,NA,Accident & Emergency,3 ,4900,Discharged
+91,65 ,Female ,17/07/2023 ,A&E,5,9700,Discharged
+92,63,Female,17/04/2023,Emergency,2,22800,NA 
+93,82,Male,19/03/2023 ,Cardiology,7,13700,Discharged
+93,82,Male,19/03/2023,Cardiology,7,13700,Discharged 
+94,27,Female,24/07/2023 ,ER,2,5400,Discharged
+NA,75,Male,01/08/2023,ER,13 ,4300,Transferred
+96,65 ,female,NA,a&e,5,22500,discharged
+97,NA,Male,30/10/2023,Neurology,3,14900,Transferred 
+98 ,82,male,10/12/2023,bone & joint,2,28300,NA
+98,82,Male,10/12/2023,Bone & Joint,2,28300,Discharged
+99,19,Female,23/02/2023,Emergency,4,29000,Transferred 
+100,53,Male,NA,Neurology,9,8400,Discharged
+101,NA,Male,30/11/2023,Orthopedics,2,13700,Discharged 
+102,25 ,FEMALE,05/06/2023,ORTHOPAEDICS,3 ,12300,DISCHARGED
+103 ,29,Male,NA,Accident & Emergency,2,17100,Discharged
+104,37,Female,NA,Cardiology,6,NA,Discharged
+105,44,MALE,16/09/2023,CARDIOLOGY,8 ,22700,DISCHARGED
+106,85,MALE,12/01/2023 ,ACCIDENT & EMERGENCY,NA ,5100 ,DISCHARGED
+107,52,female,04/10/2023 ,ortho,1,8700,NA
+108,65,NA,12/06/2023,ER,4,13300,Discharged
+109,NA,Female,03/07/2023,Neurology,5,20000,Discharged
+110,83,FEMALE,27/09/2023,A&E,1,20400,DISCHARGED
+111 ,82,Male,19/05/2023,Orthopaedics,6,24900,Discharged
+112,36,Female,03/09/2023,Cardiology,7,30300,Discharged
+113,66,Female,15/09/2023,NA,3,36500,Discharged
+114,58,Male,14/11/2023,A&E,5,21200,Transferred
+115,54,female ,15/01/2023,neurology,6,12900,discharged
+115,54,FEMALE,15/01/2023,NEUROLOGY,6,12900,DISCHARGED
+116,19,Male,09/02/2023,Neurology,1,23100,Discharged
+117 ,82 ,Male,03/04/2023,Neurology,2,11700,Discharged
+118,48,NA,08/07/2023,Cardiology,8,30400,Discharged
+119,61,female,30/06/2023 ,cardiology,3,40600,discharged
+120,67,MALE,27/12/2023,ER,3,11500,NA
+121,57,Male,08/12/2023,Accident & Emergency,6,24700 ,Discharged
+122,57,Female,04/10/2023,Cardiology,5,39200,Transferred
+123,80,NA,11/02/2023,Cardiology,1,43000,Discharged
+124,30,Female,12/04/2023,Bone & Joint,5,NA,NA
+125,58 ,MALE,17/09/2023,SURGERY,-2,46700,DISCHARGED
+NA,22,Female,15/12/2023,ER,NA,NA ,Discharged
+127,NA ,Male,07/03/2023,Cardiology,9 ,27200,Discharged
+128,74,Female ,25/11/2023,Emergency,2,21800,Discharged 
+129,42,Male,01/04/2023,Ortho,6,8300,Discharged
+130,79,Female,09/10/2023,A&E,7,21800,Discharged
+131,68,Male,16/11/2023,ER,8,13600,Discharged
+132,30,NA ,22/03/2023,Cardiology,2,29600,Discharged
+133,67,Male,08/10/2023,NA,2,28600,Discharged
+134,42,male ,19/05/2023,cardiology,8,31800,transferred
+135,56 ,NA,19/05/2023,cardiology,2 ,NA,discharged
+136,64,Male,24/12/2023,NA,4,19200 ,Discharged
+137,63,Female,20/02/2023,Surgery,8,40200,Discharged
+138,84,Female,27/02/2023,Surgery,10 ,36900,Discharged
+139,NA,Female,01/09/2023,NA,1 ,18500,Discharged
+140,22 ,Male,05/05/2023,A&E,5 ,-2700,Discharged
+141 ,40,Female,NA,Cardiology,NA,19000,Discharged 
+141,40,Female,25/02/2023,Cardiology,7,19000 ,Discharged
+142,26,Male,05/06/2023,Neurology,5,24400,Discharged 
+143,53,Male,14/01/2023,Bone & Joint,5 ,19200,Discharged
+143,53,Male,14/01/2023,Bone & Joint,5,19200,Discharged
+144,71,Female,08/06/2023,A&E,2,15300,Discharged
+145,41,Female,02/01/2023,Orthopaedics,3,10900,Discharged
+NA,38,Male,NA,NA,2,47600,NA
+147,64,Female ,03/06/2023,Emergency,7,20400,Discharged
+148,150,male,30/04/2023,neurology,6,11400,discharged
+149,29,Male,07/12/2023,Neurology,7,16700,Transferred 
+NA,NA,NA,21/05/2023,Orthopedics,8,23600,Discharged
+151,76 ,Male ,17/03/2023,Emergency,5,7900,Discharged
+NA,29 ,Male,28/03/2023,Cardiology,11,25300,Transferred
+153,NA,Male,27/05/2023,Emergency,8,27800,Discharged
+154,56,Female,03/02/2023,Surgery,8,41300,Discharged
+155,50,Female,21/10/2023,NA,1,13800,Transferred 
+156,35,NA,24/01/2023,NA,1,NA,discharged
+157,61,Male,18/04/2023,Cardiology,5,22400,Discharged
+158,42,MALE,20/12/2023,CARDIOLOGY,1,28800,DECEASED
+158,42 ,Male,20/12/2023,Cardiology,1,28800,Deceased
+159,53,Female,NA,Surgery,4,0,Transferred
+160,63,Female,18/08/2023,Cardiology,4,17300,Deceased
+161,68,Female,29/09/2023,Neurology,7,10100,Discharged
+162,65,Female,NA,Neurology,4,19500,Discharged
+163,79,Male,28/09/2023,ER,2 ,27800,NA
+164,57,NA,30/01/2023,Bone & Joint,5,24200,Discharged
+165,73,Male,02/12/2023,ER ,7,0 ,NA 
+166 ,47,Female,NA,A&E ,3,13900,Discharged
+NA,37,Female ,05/10/2023,Accident & Emergency,4,28600,Discharged
+168,20,Female,27/12/2023,Emergency,2,28100,Discharged
+169,26,Female,NA,Neurology,3,1000,Discharged
+170,23,Male,11/01/2023,ER,3,6600,Discharged
+171,22,Male,17/02/2023,Cardiology,2,38000,Discharged
+172,58,male ,10/06/2023,neurology,5,21900,discharged
+173,50,Female,09/05/2023,A&E,3,12100,Discharged
+NA,51,NA,02/12/2023,Cardiology,4 ,28900,NA
+175,70 ,Male,27/01/2023,A&E ,4,NA,Transferred
+176,81,Female,NA,ER,4,32500,NA
+NA,52,Male,10/05/2023,Emergency,4,0,Discharged
+178,47,Female,01/02/2023,NA,11,5800,Discharged
+179,NA,Male,11/11/2023,Bone & Joint,1,0,Discharged
+180,29,Female,14/08/2023 ,Neurology,1,8700,Discharged
+181,62,Male,25/03/2023,ER,NA,8000,Discharged
+NA,19,Female,22/05/2023,Bone & Joint,4,14000,Discharged 
+183,26,Male ,30/07/2023,Cardiology,1,24700,Discharged
+184,57,Female,26/08/2023,Cardiology,10,24200,Discharged
+185,48 ,Female,17/11/2023,A&E,1,18800,Discharged
+186,29,Male ,27/08/2023 ,Orthopedics,1,18000,Discharged
+187,69,Female,21/03/2023,NA,6,18000,Discharged
+188 ,79,Female,30/10/2023 ,Surgery,4,27100,Transferred
+189,-5,Male,02/04/2023,Accident & Emergency,6,NA,Discharged
+190,999,Male,26/04/2023,Cardiology,6,31800,Discharged
+191 ,47,Female,19/09/2023,Cardiology,5,33100,Discharged
+192,63,Female,03/09/2023 ,Surgery ,3,54900,Discharged
+NA,23,Male,30/01/2023,Orthopedics,1,12200,Discharged
+194,71,Female,02/10/2023,A&E,4,15200,Discharged 
+195,25,Female,14/11/2023,A&E,2,12300,Discharged
+196,80,MALE,30/01/2023,CARDIOLOGY,9,37400,DISCHARGED
+197,NA,Female,20/12/2023,Bone & Joint,2,17300,Transferred
+198,32,Male,05/10/2023,Surgery,9,52700,Discharged
+199,41,Male,27/11/2023,Cardiology,4,20500,Discharged
+200,33,Female ,05/06/2023,A&E,5,16100,Discharged
