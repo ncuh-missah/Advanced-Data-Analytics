@@ -24,3 +24,40 @@ This repository contains **five practical exercises** designed for STAT312, guid
 
 ## 📁 Repository Structure
 
+STAT312-Practicals/
+├── 01-Data-Wrangling-and-Model-Selection/ # Practicals 1 & 2
+│ ├── README.md # Module details
+│ ├── practical_1_2_combined.Rmd
+│ └── data/
+│
+├── 02-Regularised-Regression-and-Classification/ # Practicals 3 & 4
+│ ├── README.md
+│ ├── practical_3_4_combined.Rmd
+│ └── data/
+│
+└── 03-Nonparametric-Regression/ # Practical 5
+├── README.md
+├── practical_5.Rmd
+└── data/
+
+---
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/YOUR-USERNAME/STAT312-Practicals.git
+
+Required packages:
+
+r
+packages <- c("tidyverse", "rsample", "glmnet", "naivebayes", "caret")
+install.packages(packages[!packages %in% installed.packages()])
+
+📚 Module Guides
+Module	Description	Link
+1: Data Wrangling & Model Selection	Clean messy hospital data, then use cross-validation to select optimal retail sales models	View Module →
+2: Regularised Regression & Classification	Ridge/LASSO for plant growth data + logistic regression/Naive Bayes for network threat detection	View Module →
+3: Nonparametric Regression	k-NN and Nadaraya-Watson kernel regression for climate data	View Module →
+📄 License
+MIT © [Your Name]
+
