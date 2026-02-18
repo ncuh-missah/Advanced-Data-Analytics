@@ -3,7 +3,9 @@
 **A collection of practical exercises for statistical learning covering data wrangling, regularised regression, classification, and non-parametric methods.**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-1.3.0-ff69b4)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-complete-brightgreen)
 ![Last Updated](https://img.shields.io/badge/last%20updated-February%202025-blue)
 
 ---
@@ -44,20 +46,14 @@ STAT312-Practicals/
 
 ## 🚀 Quick Start
 
-```bash
-git clone https://github.com/YOUR-USERNAME/STAT312-Practicals.git
+## 📚 Module Guides
 
-Required packages:
+| Module | Description | Link |
+|--------|------------|------|
+| **1: Data Wrangling & Model Selection** | Clean messy hospital data, then use cross-validation to select optimal retail sales models | [View Module →](./01-Data-Wrangling-and-Model-Selection/) |
+| **2: Regularised Regression & Classification** | Ridge/LASSO for plant growth data + logistic regression / Naive Bayes for network threat detection | [View Module →](./02-Regularised-Regression-and-Classification/) |
+| **3: Nonparametric Regression** | k-NN and Nadaraya-Watson kernel regression for climate data | [View Module →](./03-Nonparametric-Regression/) |
 
-r
-packages <- c("tidyverse", "rsample", "glmnet", "naivebayes", "caret")
-install.packages(packages[!packages %in% installed.packages()])
-
-📚 Module Guides
-Module	Description	Link
-1: Data Wrangling & Model Selection	Clean messy hospital data, then use cross-validation to select optimal retail sales models	View Module →
-2: Regularised Regression & Classification	Ridge/LASSO for plant growth data + logistic regression/Naive Bayes for network threat detection	View Module →
-3: Nonparametric Regression	k-NN and Nadaraya-Watson kernel regression for climate data	View Module →
-📄 License
-MIT © [Your Name]
+## 📄 License
+MIT © Ncumisa Fakade
 
