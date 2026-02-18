@@ -14,32 +14,46 @@
 
 This repository contains **five practical exercises** designed for STAT312, guiding students through the complete data analysis workflow—from cleaning messy data to applying sophisticated modeling techniques.
 
-| **Module** | **Practical** | **Topic** | **Dataset** |
-|------------|---------------|-----------|-------------|
-| **Module 1** | Practical 1 | Data Wrangling | Hospital Admissions |
-| **Module 1** | Practical 2 | Model Selection | Retail Sales |
-| **Module 2** | Practical 3 | Regularised Regression | Plant Growth |
-| **Module 2** | Practical 4 | Classification | Network Security |
-| **Module 3** | Practical 5 | Nonparametric Regression | Climate Data |
+| **Practical** | **Topic** | **Dataset** |
+|---------------|-----------|-------------|
+| Practical 1 | Data Wrangling | Hospital Admissions |
+| Practical 2 | Model Selection | Retail Sales |
+| Practical 3 | Regularised Regression | Plant Growth |
+| Practical 4 | Classification | Network Security |
+| Practical 5 | Nonparametric Regression | Climate Data |
 
 ---
 
 ## 📁 Repository Structure
 
 STAT312-Practicals/
+
 ├── 01-Data-Wrangling-and-Model-Selection/ # Practicals 1 & 2
+
 │ ├── README.md # Module details
+
 │ ├── practical_1_2_combined.Rmd
+
 │ └── data/
+
 │
+
 ├── 02-Regularised-Regression-and-Classification/ # Practicals 3 & 4
+
 │ ├── README.md
+
 │ ├── practical_3_4_combined.Rmd
+
 │ └── data/
+
 │
+
 └── 03-Nonparametric-Regression/ # Practical 5
+
 ├── README.md
+
 ├── practical_5.Rmd
+
 └── data/
 
 ---
