@@ -1,4 +1,5 @@
 # 🎓 STAT312: Advanced Data Analysis in R
+---
 
 **A collection of practical exercises for statistical learning covering data wrangling, regularised regression, classification, and non-parametric methods.**
 
@@ -23,42 +24,6 @@ This repository contains **five practical exercises** designed for STAT312, guid
 | Practical 5 | Nonparametric Regression | Climate Data |
 
 ---
-
-## 📁 Repository Structure
-
-STAT312-Practicals/
-
-├── 01-Data-Wrangling-and-Model-Selection/ # Practicals 1 & 2
-
-│ ├── README.md # Module details
-
-│ ├── practical_1_2_combined.Rmd
-
-│ └── data/
-
-│
-
-├── 02-Regularised-Regression-and-Classification/ # Practicals 3 & 4
-
-│ ├── README.md
-
-│ ├── practical_3_4_combined.Rmd
-
-│ └── data/
-
-│
-
-└── 03-Nonparametric-Regression/ # Practical 5
-
-├── README.md
-
-├── practical_5.Rmd
-
-└── data/
-
----
-
-## 🚀 Quick Start
 
 ## 📚 Module Guides
 
