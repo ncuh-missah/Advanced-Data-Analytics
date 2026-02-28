@@ -29,9 +29,9 @@ This repository contains **five practical exercises** designed for STAT312, guid
 
 | Module | Description | Link |
 |--------|------------|------|
-| **1: Data Wrangling & Model Selection** | Clean messy hospital data, then use cross-validation to select optimal retail sales models | [View Module →](./01-Data-Wrangling-and-Model-Selection/) |
-| **2: Regularised Regression & Classification** | Ridge/LASSO for plant growth data + logistic regression / Naive Bayes for network threat detection | [View Module →](./02-Regularised-Regression-and-Classification/) |
-| **3: Nonparametric Regression** | k-NN and Nadaraya-Watson kernel regression for climate data | [View Module →](./03-Nonparametric-Regression/) |
+| **1: Data Wrangling & Model Selection** | Clean messy hospital data, then use cross-validation to select optimal retail sales models | [View Module →](./01-data-wrangling-and-model-selection/) |
+| **2: Regularised Regression & Classification** | Ridge/LASSO for plant growth data + logistic regression / Naive Bayes for network threat detection | [View Module →](./02-regularised-regression-and-classification/) |
+| **3: Nonparametric Regression** | k-NN and Nadaraya-Watson kernel regression for climate data | [View Module →](./03-nonparametric-regression/) |
 
 ## 📄 License
 MIT © Ncumisa Fakade
