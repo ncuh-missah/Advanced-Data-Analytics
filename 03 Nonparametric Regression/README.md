@@ -41,7 +41,7 @@ Atmospheric CO₂ (ppm) → ? → Temperature Anomaly (°C)
 
 ---
 
-## 🛠️ Tools and Technologies
+## 🔧 Tools and Technologies
 
 | **Category** | **Tools** | **Purpose** |
 |--------------|-----------|-------------|
