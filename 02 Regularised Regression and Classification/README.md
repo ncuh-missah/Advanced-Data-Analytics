@@ -6,7 +6,7 @@
 
 ## 📚 Table of Contents
 - [Project Overview](#-project-overview)
-- [Tools & Technologies](#-tools--technologies)
+- [Tools and Technologies](#-tools-and-technologies)
 - [Dataset 1: Plant Growth](#-dataset-1-plant-growth)
 - [Dataset 2: Network Security](#-dataset-2-network-security)
 - [Regularised Regression Framework](#-regularised-regression-framework)
@@ -46,7 +46,7 @@ Network Security Data → Classification Methods → Performance Metrics → Sec
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🔧 Tools and Technologies
 
 | **Category** | **Tools** | **Purpose** |
 |--------------|-----------|-------------|
