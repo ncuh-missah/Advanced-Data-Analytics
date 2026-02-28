@@ -6,11 +6,11 @@
 
 ## 📚 Table of Contents
 - [Project Overview](#-project-overview)
-- [Tools & Technologies](#-tools--technologies)
+- [Tools & Technologies](#-tools-technologies)
 - [Dataset 1: Hospital Admissions](#-dataset-1-hospital-admissions)
 - [Dataset 2: Retail Sales](#-dataset-2-retail-sales)
 - [Data Wrangling Process](#-data-wrangling-process)
-- [Cross-Validation Framework](#c-ross-validation-framework)
+- [Cross-Validation Framework](#-cross-validation-framework)
 - [Model Comparison](#-model-comparison)
 - [Insights & Findings](#-insights--findings)
 - [Business Recommendations](#-business-recommendations)
