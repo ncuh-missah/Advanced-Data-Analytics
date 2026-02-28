@@ -6,7 +6,7 @@
 
 ## 📚 Table of Contents
 - [Project Overview](#-project-overview)
-- [Tools & Technologies](#-tools-&-technologies)
+- [Tools & Technologies](#-tools-and-technologies)
 - [Dataset 1: Hospital Admissions](#-dataset-1-hospital-admissions)
 - [Dataset 2: Retail Sales](#-dataset-2-retail-sales)
 - [Data Wrangling Process](#-data-wrangling-process)
@@ -37,7 +37,7 @@ Raw Retail Data → Clean Data → Cross-Validation → Model Selection → Reco
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools and Technologies
 
 | **Category** | **Tools** | **Purpose** |
 |--------------|-----------|-------------|
