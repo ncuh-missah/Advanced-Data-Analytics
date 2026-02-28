@@ -5,17 +5,17 @@
 ---
 
 ## 📚 Table of Contents
-- [Project Overview](#project-overview)
-- [Tools & Technologies](#tools--technologies)
-- [Dataset: Climate Change](#dataset-climate-change)
-- [Nonparametric Methods Overview](#nonparametric-methods-overview)
-- [k-Nearest Neighbours Regression](#k-nearest-neighbours-regression)
-- [Nadaraya-Watson Kernel Regression](#nadaraya-watson-kernel-regression)
-- [Cross-Validation for Parameter Selection](#cross-validation-for-parameter-selection)
-- [Method Comparison](#method-comparison)
-- [Insights & Findings](#insights--findings)
-- [Climate Science Recommendations](#climate-science-recommendations)
-- [Future Work](#future-work)
+- [Project Overview](#-project-overview)
+- [Tools and Technologies](#-tools-and-technologies)
+- [Dataset: Climate Change](#-dataset-climate-change)
+- [Nonparametric Methods Overview](#-nonparametric-methods-overview)
+- [k-Nearest Neighbours Regression](#-k-nearest-neighbours-regression)
+- [Nadaraya-Watson Kernel Regression](#-nadaraya-watson-kernel-regression)
+- [Cross-Validation for Parameter Selection](#-cross-validation-for-parameter-selection)
+- [Method Comparison](#-method-comparison)
+- [Insights & Findings](#-insights--findings)
+- [Climate Science Recommendations](#-climate-science-recommendations)
+- [Future Work](#-future-work)
 
 ---
 
@@ -41,7 +41,7 @@ Atmospheric CO₂ (ppm) → ? → Temperature Anomaly (°C)
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools and Technologies
 
 | **Category** | **Tools** | **Purpose** |
 |--------------|-----------|-------------|
