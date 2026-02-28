@@ -35,9 +35,9 @@ Raw Retail Data → Clean Data → Cross-Validation → Model Selection → Reco
    Outliers         IQR method     Model Folds     Best Model Choice  Budget Allocation
 ```
 
----🛠️
+---
 
-## 🎯 Tools and Technologies
+## 🔧 Tools and Technologies
 
 | **Category** | **Tools** | **Purpose** |
 |--------------|-----------|-------------|
