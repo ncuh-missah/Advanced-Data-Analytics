@@ -11,7 +11,7 @@
 - [Dataset 2: Network Security](#-dataset-2-network-security)
 - [Regularised Regression Framework](#-regularised-regression-framework)
 - [Classification Methods](#-classification-methods)
-- [Cross-Validation Implementation](#-cross-validation-implementation)
+
 - [Model Comparison](#-model-comparison)
 - [Insights & Findings](#-insights--findings)
 - [Business & Scientific Recommendations](#-business--scientific-recommendations)
